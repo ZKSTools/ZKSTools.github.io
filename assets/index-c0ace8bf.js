@@ -142,7 +142,7 @@ const G = () => {
     const [e, r] = i.useState(!1);
     return (
       i.useEffect(() => {
-        o(0);
+        r(0);
       }, []),
       t.jsx("div", {
         children: t.jsxs(j, {
